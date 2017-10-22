@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "0.1.0",
+  "description": "A simple webapp frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senhordim/webapp.git"
+  },
+  "author": "Diego Collares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Senhordim/webapp/issues"
+  },
+  "homepage": "https://github.com/Senhordim/webapp#readme"
+}
