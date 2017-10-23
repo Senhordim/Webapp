@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Senhordim/webapp/issues"
   },
-  "homepage": "https://github.com/Senhordim/webapp#readme"
+  "homepage": "https://github.com/Senhordim/webapp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  }
 }
